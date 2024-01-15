@@ -1,7 +1,7 @@
 # UFPR-Planalto801
 
 
-This dataset, called UFPR-Planalto801 dataset, has been introduced in our VISAPP paper [[PDF]](./VISAP2024_370.pdf) and contains images of a real-world surveillance scenario and it is mainly intended for use in the development of security systems, specially regarding people tracking and re-identification.
+This dataset, called UFPR-Planalto801 dataset, has been introduced in our VISAPP paper [[PDF]](./VISAPP_2024_370.pdf) and contains images of a real-world surveillance scenario and it is mainly intended for use in the development of security systems, specially regarding people tracking and re-identification.
 It is composed by videos taken from cameras inside the the Palácio do Planalto, in Brazil, during protesters invasion on January 8, 2023. These videos are part of the footage released to the public by the Brazilian Supreme Court, according to the [GSI Note](https://www.gov.br/gsi/pt-br/centrais-de-conteudo/noticias/2023-1/nota-a-imprensa-acesso-as-imagens-do-dia-08-01-2023-do-circuito-interno-de-seguranca-do-palacio-do-planalto) released to the press on April 23, 2023. (last access: January 15,2024). The complete footage is available for download through this [link](https://drive.presidencia.gov.br/public/615ba7).
 
 
@@ -53,7 +53,7 @@ Here are some examples of people framing from the dataset:
 </p>
 
 
-The full details are in our [paper](./VISAP2024_370.pdf).
+The full details are in our [paper](./VISAPP_2024_370.pdf).
 
 ## How to obtain the dataset
 
