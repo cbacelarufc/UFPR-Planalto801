@@ -57,6 +57,8 @@ Here are some examples of tracklets from the dataset:
 <img src="./media/49.gif" height="200"/>
 <img src="./media/57.gif" height="200"/>
 <img src="./media/59.gif" height="200"/>
+<img src="./media/24.gif" height="200"/>
+<img src="./media/4.gif" height="200"/>
 <br>
 </p>
 
