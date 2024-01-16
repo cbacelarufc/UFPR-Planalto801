@@ -52,6 +52,13 @@ Here are some examples of people framing from the dataset:
 <br>
 </p>
 
+Here are some examples of tracklets from the dataset:  
+<p align="center">
+<img src="./media/49.gif" width="100"/>
+<img src="./media/57.gif" width="100"/>
+<img src="./media/59.gif" width="100"/>
+<br>
+</p>
 
 The full details are in our [paper](./VISAPP_2024_370.pdf).
 
