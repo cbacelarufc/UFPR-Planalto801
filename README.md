@@ -34,7 +34,7 @@ The UFPR-Planalto801 dataset contains 14 videos of several lengths, with a resol
 
 
 
-Annotations are in [MOTChallenge] (https://motchallenge.net/)
+Annotations are in MOTChallenge format (https://motchallenge.net/):
 
 ```
 <frame>,<id>,<left>,<top>,<width>,<height>,<conf>,<x>,<y>,<z>
