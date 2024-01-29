@@ -84,7 +84,7 @@ If you use the UFPR-Planalto801 dataset in your research, please cite our paper:
 
 
 
-Additionally, consider showing your support by starring (:star:) this repository.
+Additionally, consider showing your support by starring this repository.
 
 ## Related publications
 
