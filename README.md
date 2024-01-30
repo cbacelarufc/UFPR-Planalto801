@@ -29,15 +29,33 @@ The UFPR-Planalto801 dataset contains 14 videos of several lengths, with a resol
 
 
 
-
-
-
-
-
 Annotations are in MOTChallenge format (https://motchallenge.net/):
 
 ```
 <frame>,<id>,<left>,<top>,<width>,<height>,<conf>,<x>,<y>,<z>
+```
+
+```
+UFPR-PLanalto801
+├── all
+│   ├── VIDEO-01
+│   │   │── gt
+│   │   |   └── gt.txt
+│   │   │── img1
+│   │       ├── 000001.jpg
+│   │       ├── 000002.jpg
+│   │       ├── 000003.jpg
+│   │       ├── 000004.jpg
+...
+│   ├── VIDEO-02
+│   │   │── gt
+│   │   |   └── gt.txt
+│   │   │── img1
+│   │       ├── 000001.jpg
+│   │       ├── 000002.jpg
+│   │       ├── 000003.jpg
+│   │       ├── 000004.jpg
+...
 ```
 
 
@@ -66,11 +84,11 @@ The full details are in our [paper](./VISAPP_2024_370.pdf).
 
 ## How to obtain the dataset
 
-The UFPR-Planalto801 dataset is released for academic research only and is free to researchers from educational or research institutes for **non-commercial purposes**. 
+The UFPR-Planalto801 dataset annotations are released for academic research only and is free to researchers from educational or research institutes for non-commercial purposes.
 
-To be able to download the dataset, please read carefully [**this license agreement**](./pdfs/license-agreement.pdf), fill it out, and send it back to the first author ([cristianobac@ufc.br](mailto:cristianobac@ufc.br)). **Your e-mail must be sent from a valid university account** (.edu, .ac or similar).
+We extract pieces of a public footage in order to produce the The UFPR-Planalto801 dataset. We annotated the positions of people in frames, since original images have no annotations.
 
-In general, you will receive a download link within 1-5 business days. Failure to follow the instructions may result in no response.
+You can access the complete footage through this  link, but before you can download the dataset annotations, we kindly ask you to register by sending an e-mail with the following subject: “UFPR-Planalto801 Dataset” to the first author ([cristianobac@ufc.br]), so that we can know who is using the provided data and notify you of future updates. Please include your name, affiliation and department in the e-mail. Once you have registered, you will receive a link to download the database. In general, a download link will take 1-3 workdays to issue.
 
 
 ## Citation
