@@ -87,7 +87,26 @@ If you use the UFPR-Planalto801 dataset in your research, please cite our paper:
 Additionally, consider showing your support by starring this repository.
 
 ## Related publications
-
+```
+@InProceedings{OliveiraNeveRibeMeno:2023:PeTrMe,
+               author = "Oliveira, Cristiano Bacelar de and Neves, Jo{\~a}o C. and 
+                         Ribeiro, Rafael O. and Menotti, David",
+                title = "People Tracking Methods Applied to Planalto Palace Security 
+                         Videos",
+            booktitle = "Proceedings...",
+                 year = "2023",
+               editor = "Clua, Esteban Walter Gonzalez and K{\"o}rting, Thales Sehn and 
+                         Paulovich, Fernando Vieira and Feris, Rogerio",
+         organization = "Conference on Graphics, Patterns and Images, 36. (SIBGRAPI)",
+  conference-location = "Rio Grande, RS",
+      conference-year = "Nov. 06-09, 2023",
+             language = "en",
+                  ibi = "8JMKD3MGPEW34M/49SPD9L",
+                  url = "http://urlib.net/ibi/8JMKD3MGPEW34M/49SPD9L",
+           targetfile = "Sibgrapi_2023___WiP__Camera_Ready_.pdf",
+        urlaccessdate = "2024, Jan. 30"
+}
+```
 
 
 ## Contact
