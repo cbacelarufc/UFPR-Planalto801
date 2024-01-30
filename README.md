@@ -77,9 +77,9 @@ In general, you will receive a download link within 1-5 business days. Failure t
 
 If you use the UFPR-Planalto801 dataset in your research, please cite our paper:
 
-* C. B. de Oliveira, J. C. Neves, R. O. Ribeiro and D. Menotti, “A Multilevel Strategy to Improve People Tracking in a Real-World Scenario” in *International Conference on Computer Vision Theory and Applications (VISAPP)*, Feb 2024, pp. XXX-XXX. [[arXiv]](https://) 
-
 ```
+* de Oliveira, C.; Neves, J.; Ribeiro, R. and Menotti, D. (2024). A Multilevel Strategy to Improve People Tracking in a Real-World Scenario.  In Proceedings of the 19th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - Volume 4: VISAPP, ISBN 978-989-758-679-8, ISSN 2184-4321, pages 130-137.    
+
 ```
 
 
