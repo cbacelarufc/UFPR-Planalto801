@@ -88,7 +88,7 @@ The UFPR-Planalto801 dataset annotations are released for academic research only
 
 We extract pieces of a public footage in order to produce the The UFPR-Planalto801 dataset. We annotated the positions of people in frames, since original images have no annotations.
 
-You can access the complete footage through this  link, but before you can download the dataset annotations, we kindly ask you to register by sending an e-mail with the following subject: “UFPR-Planalto801 Dataset” to the first author ([cristianobac@ufc.br]), so that we can know who is using the provided data and notify you of future updates. Please include your name, affiliation and department in the e-mail. Once you have registered, you will receive a link to download the database. In general, a download link will take 1-3 workdays to issue.
+You can access the complete footage through this [link](https://drive.presidencia.gov.br/public/615ba7), but before you can download the dataset annotations, we kindly ask you to register by sending an e-mail with the following subject: “UFPR-Planalto801 Dataset” to the first author [cristianobac@ufc.br], so that we can know who is using the provided data and notify you of future updates. Please include your name, affiliation and department in the e-mail. Once you have registered, you will receive a link to download the database. In general, a download link will take 1-3 workdays to issue.
 
 
 ## Citation
